@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_categoriesM"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:title=" Shop by Categories" />
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/ic_account_box_black_24dp"
+            android:title="Your Account" />
+
+    </group>
+
+    <item android:title="CUSTOMER CARE">
+        <menu>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="Contact Us" />
+            <item
+                android:id="@+id/nav_query"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="Query"/>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="Privacy Policy" />
+            <item
+                android:id="@+id/nav_sen"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="Refund and Cancellation Policy" />
+            <item
+                android:id="@+id/nav_sed"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="Terms and Conditions" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name" style="?android:textAppearanceLarge" textStyle="bold">Kraftsbay</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign In</string>
+    <string name="title_activity_register">Sign Up</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_kraftsbay">KraftsbayActivity</string>
+
+    <string name="facebook_app_id">150718445513334</string>
+    <string name="fb_login_protocol_scheme">fb278772245927065</string>
+
+
+    <string-array name="array_categories">
+        <item>BIG BUTA</item>
+        <item>ERI SILK</item>
+        <item>GAMOCHA</item>
+        <item>GHISA DESIGN</item>
+        <item>GHISA SILK</item>
+        <item>HANDLOOM</item>
+        <item>HINKHAP DESIGN</item>
+        <item>KANCHIBOROM PAT</item>
+        <item>MEKHELA</item>
+        <item>MEKHELA CHADOR</item>
+        <item>MISHING JURA</item>
+        <item>MIX GHISA SILK</item>
+        <item>MIX TOSS </item>
+        <item>MULBERRY SILK</item>
+        <item>NOONI</item>
+        <item>NOONI CONTRAST</item>
+        <item>NYLON</item>
+        <item>ORIGINAL MUGA</item>
+        <item>PADMINI</item>
+        <item>PADMINI-NOONI</item>
+        <item>PADMINI CONTRAST</item>
+        <item>PAT-MUGA</item>
+        <item>PAT MEKHELA CHADOR</item>
+        <item>PAT-MUGA</item>
+        <item>PURE COTTON</item>
+        <item>SAREE</item>
+        <item>SARI</item>
+        <item>SILK ART</item>
+        <item>STAPLE</item>
+        <item>STAPLE COTTON</item>
+        <item>TOSS</item>
+        <item>TOSS-NOONI</item>
+        <item>TOSS-PADMINI</item>
+    </string-array>
+    <string name="title_activity_view_categories">ViewCategoriesActivity</string>
+    <string name="title_activity_grid_view_main">GridViewMainActivity</string>
+</resources>
